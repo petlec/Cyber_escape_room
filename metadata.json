@@ -1,5 +1,5 @@
 {
-  "name": "Kybernetická únikovka",
+  "name": "Cyber_escape_room",
   "description": "Interaktivní vzdělávací úniková hra z informatiky pro žáky ZŠ. Témata: Hardware, Binární soustava, Kyberbezpečnost. Obsahuje AI generovanou grafiku, digitální zámky a interaktivní úlohy.",
   "requestFramePermissions": []
 }
