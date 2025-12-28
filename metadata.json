@@ -1,0 +1,5 @@
+{
+  "name": "Kybernetická únikovka",
+  "description": "Interaktivní vzdělávací úniková hra z informatiky pro žáky ZŠ. Témata: Hardware, Binární soustava, Kyberbezpečnost. Obsahuje AI generovanou grafiku, digitální zámky a interaktivní úlohy.",
+  "requestFramePermissions": []
+}
